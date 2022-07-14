@@ -1,6 +1,3 @@
-body{
-}
-
 p{
     text-align: center;
 }
@@ -11,6 +8,8 @@ em strong{
 
 .tituloPrincipal{
     padding-left: 20px;
+    font-weight: bold;
+    font-size: 30px;
 }
 #missao{
     font-size: 20px
@@ -34,7 +33,7 @@ em strong{
     font-style: italic;
 }
 
-ul{
+.beneficios ul{
     display: inline-block;
     vertical-align: top;
     width: 20%;
